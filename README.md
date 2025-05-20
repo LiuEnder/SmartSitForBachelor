@@ -1,2 +1,5 @@
-# SmartSitForYourBachelor
+# SmartSitForBachelor
 用于本科毕业设计的智能坐垫设计
+
+一个用一大堆压力传感器来匹配对应坐姿从而启动对应提醒的坐垫。
+
