@@ -1,0 +1,2 @@
+# SmartSitForYourBachelor
+用于本科毕业设计的智能坐垫设计
